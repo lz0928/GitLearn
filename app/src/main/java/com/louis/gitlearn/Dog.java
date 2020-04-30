@@ -16,6 +16,10 @@ public class Dog {
         this.age = age;
     }
 
+    public void eat(){
+        System.out.println("eat");
+    }
+
     public void setColor(String color) {
         this.color = color;
     }
