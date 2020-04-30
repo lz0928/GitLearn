@@ -3,9 +3,9 @@ package com.louis.gitlearn;
 public class Cat {
     private String name;
     private int age;
-    private int color;
+    private String color;
 
-    public Cat(String name, int age, int color) {
+    public Cat(String name, int age, String color) {
         this.name = name;
         this.age = age;
         this.color = color;
@@ -16,7 +16,7 @@ public class Cat {
         this.age = age;
     }
 
-    public void setColor(int color) {
+    public void setColor(String color) {
         this.color = color;
     }
 
@@ -36,7 +36,7 @@ public class Cat {
         return age;
     }
 
-    public int getColor() {
+    public String getColor() {
         return color;
     }
 }
