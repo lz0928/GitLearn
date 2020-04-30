@@ -1,24 +1,24 @@
 package com.louis.gitlearn;
 
 public class Cat {
-    private String naem;
+    private String name;
     private int age;
 
-    public Cat(String naem, int age) {
-        this.naem = naem;
+    public Cat(String name, int age) {
+        this.name = name;
         this.age = age;
     }
 
-    public void setNaem(String naem) {
-        this.naem = naem;
+    public void setName(String name) {
+        this.name = name;
     }
 
     public void setAge(int age) {
         this.age = age;
     }
 
-    public String getNaem() {
-        return naem;
+    public String getName() {
+        return name;
     }
 
     public int getAge() {
