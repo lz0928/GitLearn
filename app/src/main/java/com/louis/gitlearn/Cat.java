@@ -39,4 +39,16 @@ public class Cat {
     public String getColor() {
         return color;
     }
+
+
+
+
+
+
+
+
+
+    public String getColor2() {
+        return color;
+    }
 }
