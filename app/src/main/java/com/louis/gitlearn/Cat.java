@@ -52,4 +52,7 @@ public class Cat {
     public String getColor6() {
         return color;
     }
+    public String getColor5() {
+        return color;
+    }
 }
