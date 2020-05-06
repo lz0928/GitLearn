@@ -43,6 +43,13 @@ public class Cat {
 
 
 
+    public String getColor1() {
+        return color;
+    }
+
+
+
+
 
 
 
