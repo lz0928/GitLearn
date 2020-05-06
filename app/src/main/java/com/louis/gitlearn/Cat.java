@@ -49,7 +49,7 @@ public class Cat {
     public String getColor2() {
         return color;
     }
-    public String getColor3() {
+    public String getColor4() {
         return color;
     }
 }
