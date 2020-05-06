@@ -46,16 +46,10 @@ public class Cat {
     public String getColor1() {
         return color;
     }
-
-
-
-
-
-
-
-
-
     public String getColor2() {
+        return color;
+    }
+    public String getColor3() {
         return color;
     }
 }
