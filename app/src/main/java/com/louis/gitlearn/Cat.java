@@ -55,4 +55,8 @@ public class Cat {
     public String getColor5() {
         return color;
     }
+
+    public String getColor8() {
+        return color;
+    }
 }
